@@ -8,10 +8,10 @@
 - Team Leader: DH-Kang
 - Team Member: HE-Lee, EB-Lee, KM-Kim, KS-Park
   - DH-Kang: Full map design, main-game development & integration
-  - HE-Lee: Development of recycling mini-game, cord pulling mini-game, mini-quizzes, and trash pickup mini-game.
-  - EB-Lee: Development of Plant Growing mini-game & Maze Finding mini-game
-  - KM-Kim: Development of Degull Degull mini-game & Air purifier mini-game
-  - KS-Park: Development of Cleaning the fishbowl mini-game
+  - HE-Lee: Development of recycling, cord pulling, mini-quizzes, and trash pickup mini-game.
+  - EB-Lee: Development of Plant Growing & Maze Finding mini-game
+  - KM-Kim: Development of Degull Degull & Air purifier mini-game
+  - KS-Park: Development of Cleaning the Fishbowl mini-game
     
 [🎥 Part of the demonstration video ]
 ▷ Full video file path: Mission Report File/Mission Game_실행영상.mp4
